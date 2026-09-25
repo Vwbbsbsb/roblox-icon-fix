@@ -17,8 +17,8 @@
 
 | Файл | Описание |
 |------|----------|
-| `Add-RobloxHosts.bat` | Версия для Windows |
-| `add-roblox-hosts.sh` | Версия для Linux / macOS |
+| `win.bat` | Версия для Windows |
+| `linux.sh` | Версия для Linux / macOS |
 
 ---
 
